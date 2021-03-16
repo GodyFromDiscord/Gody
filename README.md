@@ -3,7 +3,7 @@
 ### About Myself:
 - 16 Years Old
 - I've been programming for just about three years
-- My main project is [ascella](https://ascella.dev)
+- My main project is [Ascella](https://ascella.dev)
 
 ### Contact Info
 - **Discord**: Gody#0001
