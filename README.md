@@ -18,4 +18,4 @@
 <code>[<img height="30" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/java/java.png">](https://java.com/)</code>
 
 ![Gody's github stats](https://github-readme-stats.vercel.app/api?username=GodyFromDiscord&show_icons=true&count_private=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodyFromDiscord&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodyFromDiscord&layout=compact&count_private=true&theme=tokyonight)
