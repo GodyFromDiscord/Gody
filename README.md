@@ -19,3 +19,4 @@
 
 ![Gody's github stats](https://github-readme-stats.vercel.app/api?username=GodyFromDiscord&show_icons=true&count_private=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodyFromDiscord&layout=compact&count_private=true&theme=tokyonight)
+[![Discord Bots](https://top.gg/api/widget/821139879592853574.svg)](https://top.gg/bot/821139879592853574)
