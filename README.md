@@ -3,7 +3,12 @@
 ### About Myself:
 - 16 Years Old
 - I've been programming for just about three years
-- My main project is [Ascella](https://ascella.dev)
+- Fullstack Developer
+
+### Ascella
+The current project that I am projecting my focus and attention to is [Ascella](https://ascella.dev)
+
+Ascella is an all-purpose Discord bot that is soon to have its own dashboard integrated to control all aspects of Ascella in your server. Find us via our website or Discord server which is linked above, Ascella is powered by a devoted team who are all skilled and an important asset towards Ascella, and without them it wouldn't have grown to what it is now.
 
 ### Contact Info
 - **Discord**: Gody#0001
