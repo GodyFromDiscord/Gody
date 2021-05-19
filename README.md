@@ -21,6 +21,7 @@ Ascella is an all-purpose Discord bot that is soon to have its own dashboard int
 <code>[<img height="30" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/css/css.png">](https://css.net/)</code>
 <code>[<img height="30" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/python/python.png">](https://python.org/)</code>
 <code>[<img height="30" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/java/java.png">](https://java.com/)</code>
+<code>[<img height="30" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/lua/lua.png">](https://www.lua.org/)</code>
 
 ![Gody's github stats](https://github-readme-stats.vercel.app/api?username=GodyFromDiscord&show_icons=true&count_private=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodyFromDiscord&layout=compact&count_private=true&theme=tokyonight)
