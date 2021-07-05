@@ -23,6 +23,4 @@ Ascella is an all-purpose Discord bot that is soon to have its own dashboard int
 <code>[<img height="30" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/java/java.png">](https://java.com/)</code>
 <code>[<img height="30" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/lua/lua.png">](https://www.lua.org/)</code>
 
-![Gody's github stats](https://github-readme-stats.vercel.app/api?username=GodyFromDiscord&show_icons=true&count_private=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodyFromDiscord&layout=compact&count_private=true&theme=tokyonight)
-[![Discord Bots](https://top.gg/api/widget/821139879592853574.svg)](https://top.gg/bot/821139879592853574)
+![Metrics](https://metrics.lecoq.io/GodyFromDiscord?template=classic&isocalendar=1&languages=1&stars=1&people=1&followup=1&gists=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=ascella-dev%2Fbot&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FLondon)
